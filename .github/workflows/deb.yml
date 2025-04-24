@@ -24,7 +24,7 @@ jobs:
           rm -f packages/*
           make package FINALPACKAGE=1
       - name: Publish artifact
-        uses: actions/upload-artifact@v2
+        uses: actions/upload-artifact@v4
         with:
           name: dev.und3fy.open
           path: ${{ github.workspace }}/packages/*.deb
