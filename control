@@ -1,6 +1,6 @@
 Package: dev.und3fy.open
 Version: 1.1.1
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm
 Maintainer: und3fy <me@und3fy.dev>
 Author: Conrad Kramer <support@kramerapps.com>
 Section: System
